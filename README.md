@@ -2,7 +2,7 @@
 
 **AI / ML Engineer**: I build AI systems that work in production, not just in notebooks. LLM apps and agents, fine-tuned models, deep learning, and MLOps, with a focus on **Arabic and English**.
 
-🟢 **Open to freelance projects:** n8n & AI automations · AI chatbots and support agents · RAG over your documents · custom / fine-tuned models · deploying ML models · [**Hire me on Upwork**](https://www.upwork.com/freelancers/~016630d1cf5e280d45)
+🟢 **Open to freelance projects:** n8n & AI automations · AI chatbots, voice agents and support agents · RAG over your documents · custom / fine-tuned models · deploying ML models · [**Hire me on Upwork**](https://www.upwork.com/freelancers/~016630d1cf5e280d45)
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Project | What it does | Highlights |
 |---|---|---|
+| 🎙️ **[AI Voice Receptionist](https://github.com/KirollosMessak/ai-voice-receptionist)** | Clinic receptionist you can **talk to** in Arabic or English: books, checks and cancels appointments | Whisper speech + LangGraph tools · guardrails against false claims · **16/16 safety checks** |
 | 🎧 **[AI Customer Support Agent](https://github.com/KirollosMessak/langgraph-support-agent)** | LangGraph agent that answers policy questions, checks orders and handles refunds, in English and Egyptian Arabic | Human-in-the-loop approvals · prompt-injection safe · **18/18 evaluation** |
 | 📉 **[Churn Prediction MLOps Pipeline](https://github.com/KirollosMessak/churn-mlops)** | End-to-end ML system: validation → training → registry → API → monitoring | MLflow · FastAPI · Docker · CI/CD · drift detection · **+$16k campaign profit** |
 | 🎫 **[AI Support Ticket Extractor](https://github.com/KirollosMessak/ai-ticket-extractor)** | Fine-tuned LLM that turns messy English/Arabic/Franco messages into structured tickets | LoRA fine-tuning · **32% → 92% accuracy** |
@@ -18,7 +19,7 @@
 
 ## 🛠️ Tech stack
 
-**GenAI & LLMs:** LangChain · LangGraph · RAG · prompt engineering · structured output · Claude / OpenAI / Groq APIs
+**GenAI & LLMs:** LangChain · LangGraph · AI agents & tool calling · voice AI (Whisper, TTS) · RAG · prompt engineering · structured output · Claude / OpenAI / Groq APIs
 **Fine-tuning & Deep Learning:** PyTorch · Hugging Face Transformers · LoRA / PEFT · Unsloth
 **Machine Learning:** scikit-learn · XGBoost · pandas · NumPy
 **Automation:** n8n · REST APIs · webhooks
