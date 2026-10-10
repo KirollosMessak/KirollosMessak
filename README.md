@@ -2,7 +2,7 @@
 
 **AI / ML Engineer**: I build AI systems that work in production, not just in notebooks. LLM apps and agents, fine-tuned models, deep learning, and MLOps, with a focus on **Arabic and English**.
 
-🟢 **Open to freelance projects:** AI chatbots and support agents · RAG over your documents · custom / fine-tuned models · deploying and monitoring ML models
+🟢 **Open to freelance projects:** n8n & AI automations · AI chatbots and support agents · RAG over your documents · custom / fine-tuned models · deploying ML models · [**Hire me on Upwork**](https://www.upwork.com/freelancers/~016630d1cf5e280d45)
 
 ---
 
@@ -21,6 +21,7 @@
 **GenAI & LLMs:** LangChain · LangGraph · RAG · prompt engineering · structured output · Claude / OpenAI / Groq APIs
 **Fine-tuning & Deep Learning:** PyTorch · Hugging Face Transformers · LoRA / PEFT · Unsloth
 **Machine Learning:** scikit-learn · XGBoost · pandas · NumPy
+**Automation:** n8n · REST APIs · webhooks
 **MLOps & Deployment:** MLflow · FastAPI · Docker · GitHub Actions · Streamlit · Gradio · Hugging Face Spaces
 **Languages:** Python · SQL
 
@@ -33,6 +34,6 @@
 
 ## 📫 Let's work together
 
-Have a project in mind? Reach me on [LinkedIn](https://www.linkedin.com/in/kirollos-messak-89636614b) or through Upwork.
+Have a project in mind? Hire me on [**Upwork**](https://www.upwork.com/freelancers/~016630d1cf5e280d45) or reach me on [LinkedIn](https://www.linkedin.com/in/kirollos-messak-89636614b).
 
 <sub>Early learning notebooks (spam detection, fraud detection, price prediction, and more) are in this repo.</sub>
